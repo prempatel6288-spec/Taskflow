@@ -1,8 +1,6 @@
 # Team Task Tracker
 
-A portfolio-quality, full-stack task-management application built with **Angular, Node.js, TypeScript, SQL, REST APIs, and AWS deployment guidance**.
-
-> **Demo-data notice:** the seeded projects, people, and tasks are fictional demonstration content. No real team, customer, company, or deployment data is included.
+A portfolio-quality, full-stack task-management application built with **Angular, Node.js, TypeScript, SQL, REST APIs, and AWS deployment status**
 
 ## Features
 
