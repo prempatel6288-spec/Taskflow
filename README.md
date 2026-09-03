@@ -69,5 +69,6 @@ npm test
 ```
 ## Deployment Status
 
-This project was previously deployed on AWS as a full-stack application. The deployed environment is no longer active. However, the repository retains the local development setup and AWS deployment guidance for recreating the environment when needed.
+This project was previously deployed on AWS as a full-stack application. The deployed environment is no longer active. However, the repository retains the local development setup and AWS deployment guidance for recreating the environment when needed :)
+
 
