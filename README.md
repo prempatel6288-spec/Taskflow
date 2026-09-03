@@ -67,19 +67,7 @@ With the API dependencies installed:
 ```bash
 npm test
 ```
+## Deployment Status
 
-## Optional AWS path
-
-The project intentionally remains local-first. [AWS deployment notes](docs/aws.md) outline a practical path using a static frontend host, API runtime, and managed SQL database. Follow your organization’s security, cost, and data-governance requirements before deploying any real data.
-
-## Push to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Build full-stack team task tracker"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/team-task-tracker.git
-git push -u origin main
-```
+This project was previously deployed on AWS as a full-stack application. The deployed environment is no longer active. However, the repository retains the local development setup and AWS deployment guidance for recreating the environment when needed.
 
